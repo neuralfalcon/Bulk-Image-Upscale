@@ -1,7 +1,7 @@
 # Bulk-Image-Upscale
 ## Run on google colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/Bulk-Image-Upscale/blob/main/Bulk_image_upscale_using_CodeFormer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/Bulk-Image-Upscale/blob/main/Bulk_image_upscale_using_CodeFormer_update.ipynb)
 
 ## Credit 
 <p align="center">
